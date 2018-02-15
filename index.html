@@ -1,0 +1,87 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sales - Create New Lab</title>
+
+    <link href="https://labs.cloudify.co/static/frameworks/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://labs.cloudify.co/static/css/customer/dashboard/style.css" rel="stylesheet">
+
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2 text-center">
+            <form id="add-new-lab-form" class="form-horizontal" method="post">
+                <div class="form-group">
+                    <div style="margin-left: 20px;" class="col-sm-6">
+                        <input type="text" class="form-control" id="customer_name" name="customer_name" placeholder="Full Name" value="">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div style="margin-left: 20px;" class="col-sm-6">
+                        <input type="email" class="form-control" id="customer_email" name="customer_email" placeholder="Email" value="">
+                    </div>
+                </div>
+                <input type="text" id="access_token" name="access_token" hidden="" value="799cb0c9dc720806b554423ce4dabe2366da9589ba9313008b98d7e1">
+                <input type="text" id="redirect_url" name="redirect_url" hidden="" value="http://google.com/">
+                <div class="form-group">
+                    <div style="margin-left: 20px;" class="col-sm-offset-1 col-sm-10">
+                        <button type="submit" class="btn btn-default">Start Lab</button>
+                    </div>
+                </div>
+                <div id="error-message-response" class="alert alert-danger invisible" role="alert"><strong>Oh snap! </strong></div>
+            </form>
+        </div>
+    </div>
+
+</div> <!-- /container -->
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="https://labs.cloudify.co/static/frameworks/bootstrap/js/bootstrap.min.js"></script>
+
+
+<script type="text/javascript" src="https://labs.cloudify.co/static/frameworks/moment.js"></script>
+<script type="text/javascript" src="https://labs.cloudify.co/static/frameworks/bootstrap/js/transition.js"></script>
+<script type="text/javascript" src="https://labs.cloudify.co/static/frameworks/bootstrap/js/collapse.js"></script>
+<script type="text/javascript" src="https://labs.cloudify.co/static/frameworks/bootstrap-datetimepicker.min.js"></script>
+<script>
+$(function() {
+    $('#add-new-lab-form').on('submit', function(event){
+        event.preventDefault();
+        console.log("form submitted!");
+        create_lab();
+    });
+
+    function create_lab() {
+        console.log("create post is working!") // sanity check
+        $.ajax({
+            url : "http://89.200.142.186/labs/snippet/",
+            type : "POST",
+            data : { customer_name : $('#customer_name').val(),
+                     customer_email : $('#customer_email').val(),
+                     access_token : $('#access_token').val()},
+            crossDomain : true,
+            success : function(json) {
+                if (!$( "#error-message-response" ).hasClass('invisible')) {
+                    $( "#error-message-response" ).addClass('invisible');
+                }
+                console.log(json);
+                console.log("success");
+                window.location.href = json.redirect_url;
+            },
+            error : function(xhr,errmsg,err) {
+                $( "#error-message-response" ).text($.parseJSON(xhr.responseText).error);
+                $( "#error-message-response" ).removeClass('invisible');
+            }
+        });
+    };
+});
+</script>
+
+
+</body></html>
