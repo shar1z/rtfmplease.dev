@@ -57,7 +57,19 @@ nav-menu: true
 				<li>Led product marketing and developer experience, through the customer journey</li>
 				<li>Built open source developer community from the ground up serving thousands of developers across a diversity of technologies, platforms, and languages</li>
 				</ul>
-				</details>	
+				</details>
+				<details><summary><strong>Head of International Marketing & Technical Writer, Comsec Global</strong></summary>
+				<p>Management and execution of the company's local and international marketing strategy, including all aspects of brand management and awareness in English and Hebrew (PR materials, Web and social media presence, product demos, presentations, conferences). This involved working closely with, and supporting the VP Business Development & International Operations, with formulating the strategic marketing work plan for Israel and abroad, while defining measurable KPIs and KSIs to ensure its success; in addition to handling the relations with our local entities in the UK and the Netherlands.</p>
+				<strong>Snapshot of responsibilities:</strong>
+				<ul>
+				<li>Creation of all of the targeted company marketing material: professional technical documentation, PR materials (brochures, press releases, service sheets, position papers, newsletters, ads and more*)</li>
+				<li>Maintaining the company’s Web presence (including: corporate website, Twitter, blog, Facebook page, LinkedIn page, targeted landing pages for new products, email marketing)</li>
+				<li>Product Marketing: Product demos, presentations, and any branding material</li>
+				</ul>
+				</details>
+				<br/>
+				<hr/>
+				Find additional employment experience on <a href="https://www.linkedin.com/in/sharonez/" target="_blank">Linkedin</a>.
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
