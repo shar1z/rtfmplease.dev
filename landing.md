@@ -37,16 +37,15 @@ nav-menu: true
 				Built AppsFlyer engineering brand from the ground up, with presence in:
 				<li>36 Global Conferences (Top tier - O'Reilly Events, Kafka Summit, Devoxx, Codemotion and more), 20+ Meetups, and participation in 6+ Hackathons</li>
 				<li>Built database of developer talks, mentored, and cultivated speaking talent within the organization (See here: <a href="https://github.com/AppsFlyer/engineering-org-resources" target="_blank">AppsFlyer/engineering-org-resources</a></li>
-				<li>Conceptualized, curated & launched the first ever global engineering hackathon:
+				<li>Conceptualized, curated & launched the first ever global engineering hackathon:</li>
 				<ul>
 				<li> With 200+ engineers participating</li>
 				<li> 8+ professional workshops (including: IoT, Machine Learning, Public Speaking, Engineering Management, Blockchain and Cryptocurrency among others) </li>
 				<li>See <a href="https://hackweek.dev" target="_blank">https://hackweek.dev</a></li>
-				</li>
 				</ul>
 				<li>Expanded company focus from engineering brand to developer experience, and hired first developer advocate, as developer tools domain expert</li>
 				<li>Built sustainable long-term content strategy (See <a href="" target="https://medium.com/appsflyer">Medium.com/AppsFlyer</a>)</li>
-				</ul>
+					</ul>
 				</details>
 				<details><summary><strong>VP Marketing, Cloudify Platform LTD.</strong></summary>
 				<p>I was employed at Cloudify -- a spinoff of GigaSpaces Technologies LTD. -- from February 2011 through October 2018, where I started by building the open source developer community from the ground up, taking a leadership role in the OpenStack and Cloud Native communities, and finished my career there as VP Marekting having multiplied our revenue and clietele, and led a team focused on marketing & community, lead generation and data analysis and business development.</p>
@@ -74,8 +73,8 @@ nav-menu: true
 				<hr/>
 				Find additional employment experience on <a href="https://www.linkedin.com/in/sharonez/" target="_blank">Linkedin</a>.
 			</div>
-		</div>
-</section>
+		</div>		
+	</section>
 	<section>
 		<a href="#" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
@@ -142,10 +141,12 @@ nav-menu: true
 				<li><a href="https://www.meetup.com/DevRel/" target="_blank">DevRel IL Meetup</a></li>
 				</ul>
 				</details>
-
-				</div>
 			</div>
-		</section>
 		</div>
 	</section>
+	</section>
+	</div>
+	
+
+				
 <!-- End -->
