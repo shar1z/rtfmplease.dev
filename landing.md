@@ -23,9 +23,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
+		<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -50,9 +48,7 @@ nav-menu: true
 				<li></li>
 				<li></li>
 				</ul>
-				</details>
-
-				
+				</details>	
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -60,9 +56,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -76,9 +70,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -105,8 +97,6 @@ nav-menu: true
 				<li><a href="https://www.youtube.com/watch?v=ZolFwqJ2whw" target="_blank">Azure, OpenStack & Kubernetes Multi-Stack Orchestration | Go Open Source Tel Aviv, 2018</a></li>
 				<li><a href="https://www.youtube.com/watch?v=pTNngYk1pgU" target="_blank">The Amazon Effect on Open Source Cloud Business Models, OpenStack Summit Boston, 2017</a></li>
 				<li><a href="https://www.youtube.com/watch?v=8AURp2imtKQ&list=PLaPhdMYPt9Qh9J3IdJYgTGtRUouOurd38" target="_blank">More Talks Playlist</a></li>
-				
-
 				</ul>
 				</details>
 				<details><summary><strong>Events & Communities</strong></summary>
