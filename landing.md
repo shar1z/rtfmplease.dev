@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: whoami
 layout: landing
 description: 'whoami - Sharone Zitzman, Marketing Technologist'
 image: assets/images/pic07.jpg
