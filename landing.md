@@ -62,7 +62,17 @@ nav-menu: true
 				<header class="major">
 					<h3>What I've Learned</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<blockquote>"The proof of the pudding is in the eating."</blockquote>
+				<br/>
+				<hr/>
+				<ul>
+				<li>Market research</li>
+				<li>Optimizing the customer & user journey</li>
+				<li>Simplifying complex technology concepts</li>
+				<li>Building measurement and data-driven analysis into strategy from the ground up</li>
+				<li>Hacking developer communities for scale</li>
+				<li>End-to-End technology events management</li>
+				<li>Leadership vs. just management</li>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
