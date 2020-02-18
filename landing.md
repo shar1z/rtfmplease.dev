@@ -78,13 +78,13 @@ nav-menu: true
 				</header>
 				<details><summary><strong>Writing & Publications</strong></summary>
 				<ul>
-				<li><li><a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li></li>
+				<li><a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li></li>
 				<li><a href="https://thenewstack.io/what-the-fork-amazon/" target="_blank">What the Fork, Amazon?</a></li>
-				<li><a href="https://medium.com/@shar1z" target="_blank">My Medium</a></li>
+				<li><a href="https://medium.com/@shar1z" target="_blank">My Medium Blog</a></li>
 				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>
-				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>
-				<p>Podcasts:</p>
-				<li>The Open Source Podcast (2016-2018)<a href="https://soundcloud.com/theopensourcepodcast" target="_blank">SoundClolud</a> | <a href="https://www.youtube.com/channel/UCRIHdXlGaV5CvFRynkA-r3A" target="_blank">YouTube</a></li>
+				<h4>Podcasts:</h4>
+				<hr/>
+				<li>The Open Source Podcast (2016-2018 -- Curated Content and Co-Hosted) - <a href="https://soundcloud.com/theopensourcepodcast" target="_blank">SoundClolud</a> | <a href="https://www.youtube.com/channel/UCRIHdXlGaV5CvFRynkA-r3A" target="_blank">YouTube</a></li>
 				<li><a href="https://podtail.com/en/podcast/devinsider-the-story-of-the-israeli-tech-companies/sharone-zitzman-appsflyer-under-the-hood/" target="_blank">DevInsider: AppsFlyer Under the hood</a></li>
 				<li><a href="https://thenewstack.io/context-amazons-elastic-distribution-the-business-of-quantum-computing/" target="_blank">Context: Amazon’s Elastic Distribution, the Business of Quantum Computing</a></li>
 				</ul>
@@ -103,8 +103,9 @@ nav-menu: true
 				<ul>
 				<li><a href="https://devopsdaystlv.com" target="">DevOpsDays Tel Aviv</a> (Co-Founder and Co-Organizer)</li>
 				<li><a href="" target="https://cloudnativeisrael.com">Cloud Native Day Tel Aviv</a> (formerly OpenStack Days Tel Aviv - Co-Founder and Co-Organizer)</li>
-				<li><a href="" target="https://statscraft.org.il">StatsCraft</a> (the foremost monitoring conference in Israel - Co-Organizer)</li>
-				<p>Meetups:</p>
+				<li><a href="" target="https://statscraft.org.il">StatsCraft</a> (the foremost monitoring conference in Israel - Co-Organizer)</li><br/>
+				<h4>Meetups (Co-Organizer):</h4>
+				<hr/>
 				<li><a href="https://www.meetup.com/devops-in-israel/" target="_blank">DevOps Israel Meetup</a></li>
 				<li><a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native & OSS Israel</a></li>
 				<li><a href="https://www.meetup.com/Cloud-Online-Meetup/" target="_blank">Cloud Online Meetup</a></li>
