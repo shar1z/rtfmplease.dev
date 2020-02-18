@@ -75,6 +75,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	
 	<section>
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		<div class="content">
@@ -93,6 +94,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
 	<section>
 			<img src="/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		<div class="content">
