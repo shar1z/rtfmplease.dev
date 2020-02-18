@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'whoami - Sharone Zitzman, Marketing Technologist'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>whoami</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Hi, I'm Sharone Zitzman, a marketing technologist and open source community builder, who likes to work with engineering teams that are building products that developers love. Having built both the <a href="" target="">DevOps Israel</a> and <a href="" target="">Cloud Native Israel</a> communities from the ground up, today I spend my time finding the places where technology and people intersect and ensuring that this is an excellent experience. You can find my talks, articles, and employment experience below. Find me on <a ref="" target="">Twitter</a> or <a ref="" target="">Github</a> as @shar1z.
+</p>
 	</div>
 </section>
 
