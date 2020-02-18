@@ -113,7 +113,7 @@ nav-menu: true
 				<li><a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li>
 				<li><a href="https://thenewstack.io/what-the-fork-amazon/" target="_blank">What the Fork, Amazon?</a></li>
 				<li><a href="https://medium.com/@shar1z" target="_blank">My Medium Blog</a></li>
-				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li><&nbsp;>
+				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>&nbsp;
 				<h4>Podcasts:</h4>
 				<li>The Open Source Podcast (2016-2018 -- Curated Content and Co-Hosted) - <a href="https://soundcloud.com/theopensourcepodcast" target="_blank">SoundClolud</a> | <a href="https://www.youtube.com/channel/UCRIHdXlGaV5CvFRynkA-r3A" target="_blank">YouTube</a></li>
 				<li><a href="https://podtail.com/en/podcast/devinsider-the-story-of-the-israeli-tech-companies/sharone-zitzman-appsflyer-under-the-hood/" target="_blank">DevInsider: AppsFlyer Under the hood</a></li>
