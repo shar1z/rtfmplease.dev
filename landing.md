@@ -75,7 +75,7 @@ nav-menu: true
 				Find additional employment experience on <a href="https://www.linkedin.com/in/sharonez/" target="_blank">Linkedin</a>.
 			</div>
 		</div>
-	</section>
+</section>
 	<section>
 		<a href="#" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
@@ -95,7 +95,7 @@ nav-menu: true
 				<li>Hacking developer communities for scale</li>
 				<li>End-to-End technology events management</li>
 				<li>Leadership vs. just management</li>
-			</ul>
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -140,10 +140,12 @@ nav-menu: true
 				<li><a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native & OSS Israel</a></li>
 				<li><a href="https://www.meetup.com/Cloud-Online-Meetup/" target="_blank">Cloud Online Meetup</a></li>
 				<li><a href="https://www.meetup.com/DevRel/" target="_blank">DevRel IL Meetup</a></li>
-				</ul></details>
+				</ul>
+				</details>
+
 				</div>
 			</div>
 		</section>
+		</div>
 	</section>
-</div>
 <!-- End -->
