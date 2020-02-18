@@ -23,7 +23,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		<img src="/assets/images/pic08.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -56,7 +56,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="/assets/images/pic09.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -80,7 +80,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -92,7 +92,8 @@ nav-menu: true
 				<li><a href="https://thenewstack.io/what-the-fork-amazon/" target="_blank">What the Fork, Amazon?</a></li>
 				<li><a href="https://medium.com/@shar1z" target="_blank">My Medium Blog</a></li>
 				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>
-				<h4>Podcasts:</h4>
+				<br/>
+				Podcasts:
 				<hr/>
 				<li>The Open Source Podcast (2016-2018 -- Curated Content and Co-Hosted) - <a href="https://soundcloud.com/theopensourcepodcast" target="_blank">SoundClolud</a> | <a href="https://www.youtube.com/channel/UCRIHdXlGaV5CvFRynkA-r3A" target="_blank">YouTube</a></li>
 				<li><a href="https://podtail.com/en/podcast/devinsider-the-story-of-the-israeli-tech-companies/sharone-zitzman-appsflyer-under-the-hood/" target="_blank">DevInsider: AppsFlyer Under the hood</a></li>
@@ -113,8 +114,9 @@ nav-menu: true
 				<ul>
 				<li><a href="https://devopsdaystlv.com" target="">DevOpsDays Tel Aviv</a> (Co-Founder and Co-Organizer)</li>
 				<li><a href="" target="https://cloudnativeisrael.com">Cloud Native Day Tel Aviv</a> (formerly OpenStack Days Tel Aviv - Co-Founder and Co-Organizer)</li>
-				<li><a href="" target="https://statscraft.org.il">StatsCraft</a> (the foremost monitoring conference in Israel - Co-Organizer)</li><br/>
-				<h4>Meetups (Co-Organizer):</h4>
+				<li><a href="" target="https://statscraft.org.il">StatsCraft</a> (the foremost monitoring conference in Israel - Co-Organizer)</li>
+				<br/>
+				Meetups (Co-Organizer):
 				<hr/>
 				<li><a href="https://www.meetup.com/devops-in-israel/" target="_blank">DevOps Israel Meetup</a></li>
 				<li><a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native & OSS Israel</a></li>
