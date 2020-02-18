@@ -82,7 +82,7 @@ nav-menu: true
 				<header class="major">
 					<h3>What I've Learned</h3>
 				</header>
-				<blockquote>"The proof of the pudding is in the eating."</blockquote>
+				<h4><em>"The proof of the pudding is in the eating."</em></h4>
 				<hr/>
 				<ul>
 				<li>Market research</li>
@@ -92,9 +92,6 @@ nav-menu: true
 				<li>Hacking developer communities for scale</li>
 				<li>End-to-End technology events management</li>
 				<li>Leadership vs. just management</li>
-				<!-- <ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul> -->
 			</div>
 		</div>
 	</section>
@@ -107,7 +104,7 @@ nav-menu: true
 				</header>
 				<details><summary><strong>Writing & Publications</strong></summary>
 				<ul>
-				<li><a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li></li>
+				<li><a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li>
 				<li><a href="https://thenewstack.io/what-the-fork-amazon/" target="_blank">What the Fork, Amazon?</a></li>
 				<li><a href="https://medium.com/@shar1z" target="_blank">My Medium Blog</a></li>
 				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>
@@ -151,6 +148,8 @@ nav-menu: true
 	</section>
 </section>
 
+</div> 
+
 <!-- Three 
 <section id="three">
 	<div class="inner">
@@ -162,6 +161,4 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>-->
-</section>
 
-</div> 
