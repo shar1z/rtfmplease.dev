@@ -72,7 +72,6 @@ nav-menu: true
 					<h3>What I've Learned</h3>
 				</header>
 				<blockquote>"The proof of the pudding is in the eating."</blockquote>
-				<br/>
 				<hr/>
 				<ul>
 				<li>Market research</li>
