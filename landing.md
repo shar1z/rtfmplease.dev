@@ -84,22 +84,41 @@ nav-menu: true
 				<header class="major">
 					<h3>Street Cred</h3>
 				</header>
-				<details><summary><strong>Writing</strong></summary>
+				<details><summary><strong>Writing & Publications</strong></summary>
 				<ul>
-				<li></li>
-				<li></li>
+				<li><li><a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li></li>
+				<li><a href="https://thenewstack.io/what-the-fork-amazon/" target="_blank">What the Fork, Amazon?</a></li>
+				<li><a href="https://medium.com/@shar1z" target="_blank">My Medium</a></li>
+				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>
+				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>
+				<p>Podcasts:</p>
+				<li>The Open Source Podcast (2016-2018)<a href="https://soundcloud.com/theopensourcepodcast" target="_blank">SoundClolud</a> | <a href="https://www.youtube.com/channel/UCRIHdXlGaV5CvFRynkA-r3A" target="_blank">YouTube</a></li>
+				<li><a href="https://podtail.com/en/podcast/devinsider-the-story-of-the-israeli-tech-companies/sharone-zitzman-appsflyer-under-the-hood/" target="_blank">DevInsider: AppsFlyer Under the hood</a></li>
+				<li><a href="https://thenewstack.io/context-amazons-elastic-distribution-the-business-of-quantum-computing/" target="_blank">Context: Amazon’s Elastic Distribution, the Business of Quantum Computing</a></li>
 				</ul>
 				</details>
 				<details><summary><strong>Speaking</strong></summary>
 				<ul>
-				<li></li>
-				<li></li>
+				<li><a href="https://www.youtube.com/watch?v=EFI5V-Vqulo" target="_blank">Game of Open Source: A Tale of Hype & Mire - Keynote, jsday 2019</a></li>
+				<li><a href="https://www.youtube.com/watch?v=kttJ7js7uC8" target="_blank">Artificial Insanity - How to Keep Calm & Combat Imposter Syndrome / Sharone Revah Zitzman</a></li>
+				<li><a href="https://www.youtube.com/watch?v=8AURp2imtKQ" target="_blank">When Your Open Source Project Stops Being Cool - Sharone Zitzman - DevOpsDays Tel Aviv 2017</a></li>
+				<li><a href="https://www.youtube.com/watch?v=ZolFwqJ2whw" target="_blank">Azure, OpenStack & Kubernetes Multi-Stack Orchestration | Go Open Source Tel Aviv, 2018</a></li>
+				<li><a href="https://www.youtube.com/watch?v=pTNngYk1pgU" target="_blank">The Amazon Effect on Open Source Cloud Business Models, OpenStack Summit Boston, 2017</a></li>
+				<li><a href="https://www.youtube.com/watch?v=8AURp2imtKQ&list=PLaPhdMYPt9Qh9J3IdJYgTGtRUouOurd38" target="_blank">More Talks Playlist</a></li>
+				
+
 				</ul>
 				</details>
-				<details><summary><strong>Events</strong></summary>
+				<details><summary><strong>Events & Communities</strong></summary>
 				<ul>
-				<li></li>
-				<li></li>
+				<li><a href="https://devopsdaystlv.com" target="">DevOpsDays Tel Aviv</a> (Co-Founder and Co-Organizer)</li>
+				<li><a href="" target="https://cloudnativeisrael.com">Cloud Native Day Tel Aviv</a> (formerly OpenStack Days Tel Aviv - Co-Founder and Co-Organizer)</li>
+				<li><a href="" target="https://statscraft.org.il">StatsCraft</a> (the foremost monitoring conference in Israel - Co-Organizer)</li>
+				<p>Meetups:</p>
+				<li><a href="" target="_blank">DevOps Israel Meetup</a></li>
+				<li><a href="" target="_blank">Cloud Native Israel</a></li>
+				<li><a href="" target="_blank">Cloud Online Meetup</a></li>
+				<li><a href="" target="_blank">DevRel IL Meetup</a></li>
 				</ul>
 				</details>
 				<!-- <ul class="actions">
