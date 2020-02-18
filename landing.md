@@ -37,7 +37,7 @@ nav-menu: true
 				Built AppsFlyer engineering brand from the ground up, with presence in:
 				<li>36 global conferences (top tier - O'Reilly Events, Kafka Summit, Devoxx, Codemotion and more), 20+ meetups, and participation in 6+ hackathons</li>
 				<li>Built a database of developer talks, mentored, and cultivated speaking talent within the organization (See here: <a href="https://github.com/AppsFlyer/engineering-org-resources" target="_blank">AppsFlyer/engineering-org-resources</a>)</li>
-				<li>Coded and launched github.io page (See here: <a href="https://appsflyer.github.io/AppsFlyer/engineering-org-resources" target="_blank">appsflyer.github.io</a></li>
+				<li>Coded and launched github.io page (See here: <a href="https://appsflyer.github.io/AppsFlyer/engineering-org-resources" target="_blank">appsflyer.github.io</a>)</li>
 				<li>Conceptualized, curated & launched the first ever global engineering hackathon:</li>
 				<ul>
 				<li> With 200+ engineers participating</li>
