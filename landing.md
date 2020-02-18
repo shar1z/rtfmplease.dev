@@ -33,10 +33,16 @@ nav-menu: true
 				<p>After parting from Cloudify - my professional home for more than 7 years, I crytalized that the parts I enjoyed most about my time there was the strong focus on building developer communities and developer-facing products.  And that is why I decided to go all-in on a developer relations roled.  In this capacity I am striving to build a culture focused on engineering excellence and craftsmanship, as well as a stell developer experience for our suite of products and developer tools.</p>
 				<strong>Achievements:</strong>
 				<ul>
-				<li>Managed a team of senior marketing experts - community evangelist, data analyst, and business development</li>
-				<li>Doubled revenue from 2016 to 2017</li>
-				<li></li>
-				<li></li>
+				Built AppsFlyer engineering brand from the ground up, with presence in:
+				<li>36 Global Conferences (Top tier - O'Reilly Events, Kafka Summit, Devoxx, Codemotion and more), 20+ Meetups, and participation in 6+ Hackathons</li>
+				<li>Built database of developer talks, mentored, and cultivated speaking talent within the organization</li>
+				<li>Conceptualized, curated & launched the first ever global engineering hackathon:
+				<li> With 200+ engineers participating</li>
+				<li> 8+ professional workshops (including: IoT, Machine Learning, Public Speaking, Engineering Management, Blockchain and Cryptocurrency among others) </li>
+				See <a href="https://hackweek.dev" target="_blank">https://hackweek.dev</a>)
+				</li>
+				<li>Expanded company focus from engineering brand to developer experience, and hired first developer advocate, as developer tools domain expert</li>
+				<li>Built sustainable long-term content strategy</li>
 				</ul>
 				</details>
 				<details><summary><strong>VP Marketing, Cloudify Platform LTD.</strong></summary>
@@ -45,8 +51,11 @@ nav-menu: true
 				<ul>
 				<li>Managed a team of senior marketing experts - community evangelist, data analyst, and business development</li>
 				<li>Doubled revenue from 2016 to 2017</li>
-				<li></li>
-				<li></li>
+				<li>Added $2M ARR from 2017 to 2018</li>
+				<li>Tripled Customer Base</li>
+				<li>Established Cloudify as a market leader in the Telco vertical</li>
+				<li>Led product marketing and developer experience, through the customer journey</li>
+				<li>Built open source developer community from the ground up serving thousands of developers across a diversity of technologies, platforms, and languages</li>
 				</ul>
 				</details>	
 				<!-- <ul class="actions">
