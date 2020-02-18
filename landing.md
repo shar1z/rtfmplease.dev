@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>whoami</h2>
 		</header>
-		<p>Hi, I'm Sharone Zitzman, a marketing technologist and open source community builder, who likes to work with engineering teams that are building products that developers love. Having built both the <a href="" target="">DevOps Israel</a> and <a href="" target="">Cloud Native Israel</a> communities from the ground up, today I spend my time finding the places where technology and people intersect and ensuring that this is an excellent experience. You can find my talks, articles, and employment experience below. Find me on <a ref="" target="">Twitter</a> or <a ref="" target="">Github</a> as @shar1z.</p>
+		<p>Hi, I'm Sharone Zitzman, a marketing technologist and open source community builder, who likes to work with engineering teams that are building products that developers love. Having built both the <a href="https://www.meetup.com/devops-in-israel/" target="_blank">DevOps Israel</a> and <a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native Israel</a> communities from the ground up, today I spend my time finding the places where technology and people intersect and ensuring that this is an excellent experience. You can find my talks, articles, and employment experience below. Find me on <a ref="" target="">Twitter</a> or <a ref="" target="">Github</a> as @shar1z.</p>
 	</div>
 </section>
 
@@ -37,16 +37,15 @@ nav-menu: true
 				Built AppsFlyer engineering brand from the ground up, with presence in:
 				<li>36 Global Conferences (Top tier - O'Reilly Events, Kafka Summit, Devoxx, Codemotion and more), 20+ Meetups, and participation in 6+ Hackathons</li>
 				<li>Built database of developer talks, mentored, and cultivated speaking talent within the organization (See here: <a href="https://github.com/AppsFlyer/engineering-org-resources" target="_blank">AppsFlyer/engineering-org-resources</a></li>
-				<li>Conceptualized, curated & launched the first ever global engineering hackathon:
+				<li>Conceptualized, curated & launched the first ever global engineering hackathon:</li>
 				<ul>
 				<li> With 200+ engineers participating</li>
 				<li> 8+ professional workshops (including: IoT, Machine Learning, Public Speaking, Engineering Management, Blockchain and Cryptocurrency among others) </li>
 				<li>See <a href="https://hackweek.dev" target="_blank">https://hackweek.dev</a></li>
-				</li>
 				</ul>
 				<li>Expanded company focus from engineering brand to developer experience, and hired first developer advocate, as developer tools domain expert</li>
 				<li>Built sustainable long-term content strategy (See <a href="" target="https://medium.com/appsflyer">Medium.com/AppsFlyer</a>)</li>
-				</ul>
+					</ul>
 				</details>
 				<details><summary><strong>VP Marketing, Cloudify Platform LTD.</strong></summary>
 				<p>I was employed at Cloudify -- a spinoff of GigaSpaces Technologies LTD. -- from February 2011 through October 2018, where I started by building the open source developer community from the ground up, taking a leadership role in the OpenStack and Cloud Native communities, and finished my career there as VP Marekting having multiplied our revenue and clietele, and led a team focused on marketing & community, lead generation and data analysis and business development.</p>
@@ -74,7 +73,7 @@ nav-menu: true
 				<hr/>
 				Find additional employment experience on <a href="https://www.linkedin.com/in/sharonez/" target="_blank">Linkedin</a>.
 			</div>
-		</div>
+		</div>		
 	</section>
 	<section>
 		<a href="#" class="image">
@@ -95,7 +94,7 @@ nav-menu: true
 				<li>Hacking developer communities for scale</li>
 				<li>End-to-End technology events management</li>
 				<li>Leadership vs. just management</li>
-			</ul>
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -113,7 +112,7 @@ nav-menu: true
 				<li><a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li>
 				<li><a href="https://thenewstack.io/what-the-fork-amazon/" target="_blank">What the Fork, Amazon?</a></li>
 				<li><a href="https://medium.com/@shar1z" target="_blank">My Medium Blog</a></li>
-				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>
+				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li><&nbsp;>
 				<h4>Podcasts:</h4>
 				<li>The Open Source Podcast (2016-2018 -- Curated Content and Co-Hosted) - <a href="https://soundcloud.com/theopensourcepodcast" target="_blank">SoundClolud</a> | <a href="https://www.youtube.com/channel/UCRIHdXlGaV5CvFRynkA-r3A" target="_blank">YouTube</a></li>
 				<li><a href="https://podtail.com/en/podcast/devinsider-the-story-of-the-israeli-tech-companies/sharone-zitzman-appsflyer-under-the-hood/" target="_blank">DevInsider: AppsFlyer Under the hood</a></li>
@@ -134,16 +133,20 @@ nav-menu: true
 				<ul>
 				<li><a href="https://devopsdaystlv.com" target="">DevOpsDays Tel Aviv</a> (Co-Founder and Co-Organizer)</li>
 				<li><a href="" target="https://cloudnativeisrael.com">Cloud Native Day Tel Aviv</a> (formerly OpenStack Days Tel Aviv - Co-Founder and Co-Organizer)</li>
-				<li><a href="" target="https://statscraft.org.il">StatsCraft</a> (the foremost monitoring conference in Israel - Co-Organizer)</li>
+				<li><a href="" target="https://statscraft.org.il">StatsCraft</a> (the foremost monitoring conference in Israel - Co-Organizer)</li><&nbsp;>
 				<h4>Meetups (Co-Organizer):</h4>
 				<li><a href="https://www.meetup.com/devops-in-israel/" target="_blank">DevOps Israel Meetup</a></li>
 				<li><a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native & OSS Israel</a></li>
 				<li><a href="https://www.meetup.com/Cloud-Online-Meetup/" target="_blank">Cloud Online Meetup</a></li>
 				<li><a href="https://www.meetup.com/DevRel/" target="_blank">DevRel IL Meetup</a></li>
-				</ul></details>
-				</div>
+				</ul>
+				</details>
 			</div>
-		</section>
+		</div>
 	</section>
-</div>
+	</section>
+	</div>
+	
+
+				
 <!-- End -->
