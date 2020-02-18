@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="/assets/images/pic08.jpg" alt="" data-position="center center" />
+		<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -76,12 +76,10 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-			<img src="/assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
-				<header class="major">
-					<h3>What I've Learned</h3>
-				</header>
+				<header class="major"><h3>What I've Learned</h3></header>
 				<h4><em>"The proof of the pudding is in the eating."</em></h4>
 				<hr/>
 				<ul>
@@ -147,7 +145,6 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-
 </div> 
 
 <!-- Three 
