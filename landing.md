@@ -31,6 +31,16 @@ nav-menu: true
 				<header class="major">
 					<h3>Where I've Worked</h3>
 				</header>
+				<details><summary><strong>Head of Developer Relations, AppsFlyer</strong></summary>
+				<p>After parting from Cloudify - my professional home for more than 7 years, I crytalized that the parts I enjoyed most about my time there was the strong focus on building developer communities and developer-facing products.  And that is why I decided to go all-in on a developer relations roled.  In this capacity I am striving to build a culture focused on engineering excellence and craftsmanship, as well as a stell developer experience for our suite of products and developer tools.</p>
+				<strong>Achievements:</strong>
+				<ul>
+				<li>Managed a team of senior marketing experts - community evangelist, data analyst, and business development</li>
+				<li>Doubled revenue from 2016 to 2017</li>
+				<li></li>
+				<li></li>
+				</ul>
+				</details>
 				<details><summary><strong>VP Marketing, Cloudify Platform LTD.</strong></summary>
 				<p>I was employed at Cloudify, a spinoff of GigaSpaces Technologies LTD. from February 2011 through October 2018, where I started by building the open source developer community from the ground up, taking a leadership role in the OpenStack and Cloud Native communities, and finished my career there as VP Marekting having multiplied our revenue and clietele, and led a team focused on marketing & community, lead generation and data analysis and business development.</p>
 				<strong>Achievements:</strong>
@@ -42,7 +52,7 @@ nav-menu: true
 				</ul>
 				</details>
 
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -74,7 +84,24 @@ nav-menu: true
 				<header class="major">
 					<h3>Street Cred</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<details><summary><strong>Writing</strong></summary>
+				<ul>
+				<li></li>
+				<li></li>
+				</ul>
+				</details>
+				<details><summary><strong>Speaking</strong></summary>
+				<ul>
+				<li></li>
+				<li></li>
+				</ul>
+				</details>
+				<details><summary><strong>Events</strong></summary>
+				<ul>
+				<li></li>
+				<li></li>
+				</ul>
+				</details>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
