@@ -45,7 +45,7 @@ nav-menu: true
 				<li>See <a href="https://hackweek.dev" target="_blank">https://hackweek.dev</a></li>
 				</ul>
 				<li>Expanded company focus from engineering brand to developer experience, and hired first developer advocate, as developer tools domain expert</li>
-				<li>Built sustainable long-term content strategy (See <a href="" target="https://medium.com/appsflyer">Medium.com/AppsFlyer</a>)</li>
+				<li>Built sustainable long-term content strategy (See <a href="https://medium.com/appsflyer" target="_blank">medium.com/AppsFlyer</a>)</li>
 					</ul>
 				</details>
 				<details><summary><strong>VP Marketing, Cloudify Platform LTD.</strong></summary>
