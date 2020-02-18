@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>whoami</h2>
 		</header>
-		<p>Hi, I'm Sharone Zitzman, a marketing technologist and open source community builder, who likes to work with engineering teams that are building products that developers love. Having built both the <a href="https://www.meetup.com/devops-in-israel/" target="_blank">DevOps Israel</a> and <a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native Israel</a> communities from the ground up, today I spend my time finding the places where technology and people intersect and ensuring that this is an excellent experience. You can find my talks, articles, and employment experience below. Find me on <a ref="" target="">Twitter</a> or <a ref="" target="">Github</a> as @shar1z.</p>
+		<p>Hi, I'm Sharone Zitzman, a marketing technologist and open source community builder, who likes to work with engineering teams that are building products that developers love. Having built both the <a href="https://www.meetup.com/devops-in-israel/" target="_blank">DevOps Israel</a> and <a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native Israel</a> communities from the ground up, today I spend my time finding the places where technology and people intersect and ensuring that this is an excellent experience. You can find my talks, articles, and employment experience below. Find me on <a ref="https://twitter.com/shar1z" target="_blank">Twitter</a> or <a ref="http://github.com/shar1z" target="_blank">Github</a> as @shar1z.</p>
 	</div>
 </section>
 
@@ -35,8 +35,9 @@ nav-menu: true
 				<strong>Achievements:</strong>
 				<ul>
 				Built AppsFlyer engineering brand from the ground up, with presence in:
-				<li>36 Global Conferences (Top tier - O'Reilly Events, Kafka Summit, Devoxx, Codemotion and more), 20+ Meetups, and participation in 6+ Hackathons</li>
-				<li>Built database of developer talks, mentored, and cultivated speaking talent within the organization (See here: <a href="https://github.com/AppsFlyer/engineering-org-resources" target="_blank">AppsFlyer/engineering-org-resources</a></li>
+				<li>36 global conferences (top tier - O'Reilly Events, Kafka Summit, Devoxx, Codemotion and more), 20+ meetups, and participation in 6+ hackathons</li>
+				<li>Built a database of developer talks, mentored, and cultivated speaking talent within the organization (See here: <a href="https://github.com/AppsFlyer/engineering-org-resources" target="_blank">AppsFlyer/engineering-org-resources</a></li>
+				<li>Coded and launched github.io page (See here: <a href="https://appsflyer.github.io/AppsFlyer/engineering-org-resources" target="_blank">appsflyer.github.io</a></li>
 				<li>Conceptualized, curated & launched the first ever global engineering hackathon:</li>
 				<ul>
 				<li> With 200+ engineers participating</li>
