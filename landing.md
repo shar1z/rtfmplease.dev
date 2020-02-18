@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main"></div>
+<div id="main">
 
 <!-- One -->
 <section id="one">
@@ -142,9 +142,10 @@ nav-menu: true
 				<li><a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native & OSS Israel</a></li>
 				<li><a href="https://www.meetup.com/Cloud-Online-Meetup/" target="_blank">Cloud Online Meetup</a></li>
 				<li><a href="https://www.meetup.com/DevRel/" target="_blank">DevRel IL Meetup</a></li>
-				</ul>
+				</ul></details>
+				</div>
 			</div>
-		</div>
+		</section>
 	</section>
-</section>
+</div>
 <!-- End -->
