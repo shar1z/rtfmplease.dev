@@ -49,23 +49,23 @@ nav-menu: true
 					</ul>
 				</details>
 				<details><summary><strong>VP Marketing, Cloudify Platform LTD.</strong></summary>
-				<p>I was employed at Cloudify -- a spinoff of GigaSpaces Technologies LTD. -- from February 2011 through October 2018, where I started by building the open source developer community from the ground up, taking a leadership role in the OpenStack and Cloud Native communities, and finished my career there as VP Marketing having multiplied our revenue and clietele, and led a team focused on marketing & community, lead generation and data analysis and business development.</p>
+				<p>I was employed at Cloudify -- a spinoff of GigaSpaces Technologies LTD. -- from February 2011 through October 2018, where I started by building the open source developer community from the ground up, taking a leadership role in the OpenStack and Cloud Native communities, and finished my career there as VP Marketing having multiplied our revenue and clietele, and led a team focused on marketing & community, lead generation & data analysis, as well as business development.</p>
 				<strong>Achievements:</strong>
 				<ul>
-				<li>Managed a team of senior marketing experts - community evangelist, data analyst, and business development</li>
+				<li>Managed a team of senior marketing experts - marketing, community evangelist, data analyst, and business development</li>
 				<li>Doubled revenue from 2016 to 2017</li>
 				<li>Added $2M ARR from 2017 to 2018</li>
-				<li>Tripled Customer Base</li>
+				<li>Tripled customer base - including top tier banks, telcos, and other financial services organizations</li>
 				<li>Established Cloudify as a market leader in the Telco vertical</li>
-				<li>Led product marketing and developer experience, through the customer journey</li>
-				<li>Built open source developer community from the ground up serving thousands of developers across a diversity of technologies, platforms, and languages</li>
+				<li>Led product marketing and developer experience, through the customer journey & funnel</li>
+				<li>Built the open source developer community from the ground up serving thousands of developers across a diversity of technologies, platforms, and languages</li>
 				</ul>
 				</details>
 				<details><summary><strong>Head of International Marketing & Technical Writer, Comsec Global</strong></summary>
 				<p>Management and execution of the company's local and international marketing strategy, including all aspects of brand management and awareness in English and Hebrew (PR materials, Web and social media presence, product demos, presentations, conferences). This involved working closely with, and supporting the VP Business Development & International Operations, with formulating the strategic marketing work plan for Israel and abroad, while defining measurable KPIs and KSIs to ensure its success; in addition to handling the relations with our local entities in the UK and the Netherlands.</p>
 				<strong>Snapshot of responsibilities:</strong>
 				<ul>
-				<li>Creation of all of the targeted company marketing material: professional technical documentation, PR materials (brochures, press releases, service sheets, position papers, newsletters, ads and more*)</li>
+				<li>Creation of all of the targeted company marketing material: professional technical documentation, PR materials (brochures, press releases, service sheets, position papers, newsletters, ads and more)</li>
 				<li>Maintaining the company’s Web presence (including: corporate website, Twitter, blog, Facebook page, LinkedIn page, targeted landing pages for new products, email marketing)</li>
 				<li>Product Marketing: Product demos, presentations, and any branding material</li>
 				</ul>
@@ -93,7 +93,7 @@ nav-menu: true
 				<li>Simplifying complex technology concepts</li>
 				<li>Building measurement and data-driven analysis into strategy from the ground up</li>
 				<li>Hacking developer communities for scale</li>
-				<li>End-to-End technology events management</li>
+				<li>End-to-end technology events management</li>
 				<li>Leadership vs. just management</li>
 				</ul>
 			</div>
