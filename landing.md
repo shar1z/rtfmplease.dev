@@ -1,7 +1,7 @@
 ---
-title: whoami
+title: Landing
 layout: landing
-description: 'whoami - Sharone Zitzman, Marketing Technologist'
+description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -22,11 +22,13 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Where I've Worked</h3>
+				<h3>Where I've Worked</h3>
 				</header>
 				<details><summary><strong>Head of Developer Relations, AppsFlyer</strong></summary>
 				<p>After parting from Cloudify - my professional home for more than 7 years, I crytalized that the parts I enjoyed most about my time there was the strong focus on building developer communities and developer-facing products.  And that is why I decided to go all-in on a developer relations roled.  In this capacity I am striving to build a culture focused on engineering excellence and craftsmanship, as well as a stell developer experience for our suite of products and developer tools.</p>
@@ -69,18 +71,18 @@ nav-menu: true
 				<br/>
 				<hr/>
 				Find additional employment experience on <a href="https://www.linkedin.com/in/sharonez/" target="_blank">Linkedin</a>.
-				<!-- <ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul> -->
 			</div>
 		</div>
 	</section>
-	
 	<section>
+		<a href="generic.html" class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+		</a>
 		<div class="content">
 			<div class="inner">
-				<header class="major"><h3>What I've Learned</h3></header>
+				<header class="major">
+					<h3>What I've Learned</h3>
+				</header>
 				<h4><em>"The proof of the pudding is in the eating."</em></h4>
 				<hr/>
 				<ul>
@@ -91,12 +93,14 @@ nav-menu: true
 				<li>Hacking developer communities for scale</li>
 				<li>End-to-End technology events management</li>
 				<li>Leadership vs. just management</li>
+			</ul>
 			</div>
 		</div>
 	</section>
-
 	<section>
-			<img src="/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		<a href="generic.html" class="image">
+			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -139,25 +143,8 @@ nav-menu: true
 				<li><a href="https://www.meetup.com/Cloud-Online-Meetup/" target="_blank">Cloud Online Meetup</a></li>
 				<li><a href="https://www.meetup.com/DevRel/" target="_blank">DevRel IL Meetup</a></li>
 				</ul>
-				</details>
-				<!-- <ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul> -->
 			</div>
 		</div>
 	</section>
 </section>
-</div> 
-
-<!-- Three 
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>-->
-
+</div>
