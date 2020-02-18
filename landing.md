@@ -115,10 +115,10 @@ nav-menu: true
 				<li><a href="" target="https://cloudnativeisrael.com">Cloud Native Day Tel Aviv</a> (formerly OpenStack Days Tel Aviv - Co-Founder and Co-Organizer)</li>
 				<li><a href="" target="https://statscraft.org.il">StatsCraft</a> (the foremost monitoring conference in Israel - Co-Organizer)</li>
 				<p>Meetups:</p>
-				<li><a href="" target="_blank">DevOps Israel Meetup</a></li>
-				<li><a href="" target="_blank">Cloud Native Israel</a></li>
-				<li><a href="" target="_blank">Cloud Online Meetup</a></li>
-				<li><a href="" target="_blank">DevRel IL Meetup</a></li>
+				<li><a href="https://www.meetup.com/devops-in-israel/" target="_blank">DevOps Israel Meetup</a></li>
+				<li><a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native & OSS Israel</a></li>
+				<li><a href="https://www.meetup.com/Cloud-Online-Meetup/" target="_blank">Cloud Online Meetup</a></li>
+				<li><a href="https://www.meetup.com/DevRel/" target="_blank">DevRel IL Meetup</a></li>
 				</ul>
 				</details>
 				<!-- <ul class="actions">
