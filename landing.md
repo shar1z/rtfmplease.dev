@@ -1,7 +1,7 @@
 ---
 title: whoami
 layout: landing
-description: 'whoami - Sharone Zitzman, Marketing Technologist'
+description: 'Sharone Zitzman, Marketing Technologist'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
