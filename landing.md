@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>whoami</h2>
 		</header>
-		<p>Hi, I'm Sharone Zitzman, a marketing technologist and open source community builder, who likes to work with engineering teams that are building products that developers love. Having built both the <a href="" target="">DevOps Israel</a> and <a href="" target="">Cloud Native Israel</a> communities from the ground up, today I spend my time finding the places where technology and people intersect and ensuring that this is an excellent experience. You can find my talks, articles, and employment experience below. Find me on <a ref="" target="">Twitter</a> or <a ref="" target="">Github</a> as @shar1z.</p>
+		<p>Hi, I'm Sharone Zitzman, a marketing technologist and open source community builder, who likes to work with engineering teams that are building products that developers love. Having built both the <a href="https://www.meetup.com/devops-in-israel/" target="_blank">DevOps Israel</a> and <a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native Israel</a> communities from the ground up, today I spend my time finding the places where technology and people intersect and ensuring that this is an excellent experience. You can find my talks, articles, and employment experience below. Find me on <a ref="" target="">Twitter</a> or <a ref="" target="">Github</a> as @shar1z.</p>
 	</div>
 </section>
 
