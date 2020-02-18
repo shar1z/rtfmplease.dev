@@ -123,7 +123,7 @@ nav-menu: true
 				<details><summary><strong>Speaking</strong></summary>
 				<ul>
 				<li><a href="https://www.youtube.com/watch?v=EFI5V-Vqulo" target="_blank">Game of Open Source: A Tale of Hype & Mire - Keynote, jsday 2019</a></li>
-				<li><a href="https://www.youtube.com/watch?v=kttJ7js7uC8" target="_blank">Artificial Insanity - How to Keep Calm & Combat Imposter Syndrome / Sharone Revah Zitzman</a></li>
+				<li><a href="https://www.youtube.com/watch?v=kttJ7js7uC8" target="_blank">Artificial Insanity - How to Keep Calm & Combat Imposter Syndrome, Reversim 2019</a></li>
 				<li><a href="https://www.youtube.com/watch?v=8AURp2imtKQ" target="_blank">When Your Open Source Project Stops Being Cool - Sharone Zitzman - DevOpsDays Tel Aviv 2017</a></li>
 				<li><a href="https://www.youtube.com/watch?v=ZolFwqJ2whw" target="_blank">Azure, OpenStack & Kubernetes Multi-Stack Orchestration | Go Open Source Tel Aviv, 2018</a></li>
 				<li><a href="https://www.youtube.com/watch?v=pTNngYk1pgU" target="_blank">The Amazon Effect on Open Source Cloud Business Models, OpenStack Summit Boston, 2017</a></li>
