@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>whoami</h2>
 		</header>
-		<p>Hi, I'm Sharone Zitzman, a marketing technologist and open source community builder, who likes to work with engineering teams that are building products that developers love. Having built both the <a href="https://www.meetup.com/devops-in-israel/" target="_blank">DevOps Israel</a> and <a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native Israel</a> communities from the ground up, today I spend my time finding the places where technology and people intersect and ensuring that this is an excellent experience. You can find my talks, articles, and employment experience below. Find me on <a ref="https://twitter.com/shar1z" target="_blank">Twitter</a> or <a ref="https://github.com/shar1z" target="_blank">Github</a> as @shar1z.</p>
+		<p>Hi, I'm Sharone Zitzman, a marketing technologist and open source community builder, who likes to work with engineering teams that are building products that developers love. Having built both the <a href="https://www.meetup.com/devops-in-israel/" target="_blank">DevOps Israel</a> and <a href="https://www.meetup.com/cloud-native-oss/" target="_blank">Cloud Native Israel</a> communities from the ground up, today I spend my time finding the places where technology and people intersect and ensuring that this is an excellent experience. You can find my talks, articles, and employment experience below. Find me on <a ref="" target="">Twitter</a> or <a ref="" target="">Github</a> as @shar1z.</p>
 	</div>
 </section>
 
@@ -31,7 +31,7 @@ nav-menu: true
 				<h3>Where I've Worked</h3>
 				</header>
 				<details><summary><strong>Head of Developer Relations, AppsFlyer</strong></summary>
-				<p>After parting from Cloudify - my professional home for more than 7 years, I crytalized that the parts I enjoyed most about my time there was the strong focus on building developer communities and developer-facing products.  And that is why I decided to go all-in on a developer relations roled.  In this capacity I am striving to build a culture focused on engineering excellence and craftsmanship, as well as a stell developer experience for our suite of products and developer tools.</p>
+				<p>After parting from Cloudify - my professional home for more than 7 years, I crystalized that the parts I enjoyed most about my time there was the strong focus on building developer communities and developer-facing products.  And that is why I decided to go all-in on a developer relations role.  In this capacity I am striving to build a culture focused on engineering excellence and craftsmanship, as well as a stellar developer experience for our suite of products and developer tools.</p>
 				<strong>Achievements:</strong>
 				<ul>
 				Built AppsFlyer engineering brand from the ground up, with presence in:
@@ -112,7 +112,7 @@ nav-menu: true
 				<li><a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li>
 				<li><a href="https://thenewstack.io/what-the-fork-amazon/" target="_blank">What the Fork, Amazon?</a></li>
 				<li><a href="https://medium.com/@shar1z" target="_blank">My Medium Blog</a></li>
-				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>&nbsp;
+				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li><&nbsp;>
 				<h4>Podcasts:</h4>
 				<li>The Open Source Podcast (2016-2018 -- Curated Content and Co-Hosted) - <a href="https://soundcloud.com/theopensourcepodcast" target="_blank">SoundClolud</a> | <a href="https://www.youtube.com/channel/UCRIHdXlGaV5CvFRynkA-r3A" target="_blank">YouTube</a></li>
 				<li><a href="https://podtail.com/en/podcast/devinsider-the-story-of-the-israeli-tech-companies/sharone-zitzman-appsflyer-under-the-hood/" target="_blank">DevInsider: AppsFlyer Under the hood</a></li>
