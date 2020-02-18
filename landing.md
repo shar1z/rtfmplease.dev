@@ -38,10 +38,12 @@ nav-menu: true
 				<li>36 Global Conferences (Top tier - O'Reilly Events, Kafka Summit, Devoxx, Codemotion and more), 20+ Meetups, and participation in 6+ Hackathons</li>
 				<li>Built database of developer talks, mentored, and cultivated speaking talent within the organization (See here: <a href="https://github.com/AppsFlyer/engineering-org-resources" target="_blank">AppsFlyer/engineering-org-resources</a></li>
 				<li>Conceptualized, curated & launched the first ever global engineering hackathon:
+				<ul>
 				<li> With 200+ engineers participating</li>
 				<li> 8+ professional workshops (including: IoT, Machine Learning, Public Speaking, Engineering Management, Blockchain and Cryptocurrency among others) </li>
 				<li>See <a href="https://hackweek.dev" target="_blank">https://hackweek.dev</a></li>
 				</li>
+				</ul>
 				<li>Expanded company focus from engineering brand to developer experience, and hired first developer advocate, as developer tools domain expert</li>
 				<li>Built sustainable long-term content strategy (See <a href="" target="https://medium.com/appsflyer">Medium.com/AppsFlyer</a>)</li>
 				</ul>
