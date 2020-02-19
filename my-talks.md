@@ -13,7 +13,7 @@ We've all suffered from imposter syndrome from time to time. But it turns out im
 </div>
 
 <h3>How to Hack a Community from the Bottom Up</h3>
-<span class="icon alt fa-play" color="#64c6b7"></span>&nbsp;&nbsp;<a href="https://youtu.be/XAXouw--G1c?&t=2218" target="_blank"> Watch</a>
+<span class="icon alt fa-play" style="color:#64c6b7;"></span>&nbsp;&nbsp;<a href="https://youtu.be/XAXouw--G1c?&t=2218" target="_blank"> Watch</a>
 <div class="box">
 	<p>Community is about chopping wood and carrying water - this talk will teach you the fundamentals of bringing people together.<br/>
     This talk will dive into the pillars of community and that which makes a good community flourish, the short and long term benefits for the individual and organization, some KPIs, and debunk a few myths.
