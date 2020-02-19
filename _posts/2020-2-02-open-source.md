@@ -2,7 +2,7 @@
 layout: post
 title: Game of Open Source - A Tale of Hype & Mire
 description: Building sustainable open source projects is no easy feat.  This talk will dive into some of the challenges open source projects face, and what we can do to make them more sustainable in the long term.
-image: assets/images/pic06.jpg
+image: assets/images/pic062.jpg
 ---
 
 

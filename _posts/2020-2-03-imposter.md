@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Artificial Insanity: How to Keep Calm and Combat Imposter Syndrome
+title: Artificial Insanity - How to Keep Calm and Combat Imposter Syndrome
 description: Don't panic! We all feel imposter syndrome.  This talk will give you some insights on why you feel this way, and what you can do to combat the voice at the back of your head that makes you feel like you're not as awesome as you are.
-image: assets/images/pic06.jpg
+image: assets/images/pic063.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: How to Hack a Community from the Bottom Up
 description: Community is about chopping wood and carrying water - this talk will teach you the fundamentals of bringing people together
-image: assets/images/pic06.jpg
+image: assets/images/pic061.jpg
 ---
 
 How to Hack a Community from the Bottom Up
