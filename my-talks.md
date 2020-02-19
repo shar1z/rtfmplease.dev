@@ -2,7 +2,7 @@
 layout: post
 title: My Talks
 description: Below is a roundup of talks I've given, or can give - feel free to reach out if you'd like to hear more.
-image: assets/images/pic061.jpg
+image: 
 nav-menu: true
 ---
 
