@@ -85,8 +85,7 @@ nav-menu: true
 				<header class="major">
 					<h3>What I've Learned</h3>
 				</header>
-				<h4><em>"The proof of the pudding is in the eating."</em></h4>
-				<hr/>
+				<blockquote><strong>"The proof of the pudding is in the eating."</strong></blockquote>
 				<ul>
 				<li>Market research</li>
 				<li>Optimizing the customer & user journey</li>
