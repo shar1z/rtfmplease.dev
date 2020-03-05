@@ -87,7 +87,7 @@ nav-menu: true
 				</header>
 				<blockquote><strong>"The proof of the pudding is in the eating."</strong></blockquote>
 				<ul>
-				<li>Market research</li>
+				<li>Technology & product marketing</li>
 				<li>Optimizing the customer & user journey</li>
 				<li>Simplifying complex technology concepts</li>
 				<li>Building measurement and data-driven analysis into strategy from the ground up</li>
