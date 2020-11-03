@@ -22,7 +22,7 @@ We've all suffered from imposter syndrome from time to time. But it turns out im
 
 <h3>Variation: How the Pillars of Community Map to the Pillars of High Performing Organizations</h3>
 <div class="box">
-	<p>The pillars of good community leadership are built around rallying people to a common purpose, building a meritiocracy so that the most masterful of contributions are those that prevail, and providing the value that people expect, or have the autonomy to move on from your community as well. Leading teams to inspire them to have purpose, strive for mastery and do so autonomously essentially map to the same values. This talk will dive into how you can build your company around core community values to build a high-performing organization, cultivate employee engagement and retention in the long term.
+	<p>The pillars of good community leadership are built around rallying people to a common purpose, building a meritocracy so that the most masterful of contributions are those that prevail, and the autonomy to learn, share, contribute and create. Leading teams to inspire them to have purpose, strive for mastery and do so autonomously essentially map to the same values. This talk will dive into how you can build your company around core community values to build a high-performing organization, cultivate employee engagement and retention in the long term.
     </p>
 </div>
 
