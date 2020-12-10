@@ -49,7 +49,7 @@ nav-menu: true
 					</ul>
 				</details>
 				<details><summary><strong>VP Marketing, Cloudify Platform LTD.</strong></summary>
-				<p>I was employed at Cloudify -- a spinoff of GigaSpaces Technologies LTD. -- from February 2011 through October 2018, where I started by building the open source developer community from the ground up, taking a leadership role in the OpenStack and Cloud Native communities, and finished my career there as VP Marketing having multiplied our revenue and clietele, and led a team focused on marketing & community, lead generation & data analysis, as well as business development.</p>
+				<p>I was employed at Cloudify -- a spinoff of GigaSpaces Technologies LTD. -- from February 2011 through October 2018, where I started by building the open source developer community from the ground up, taking a leadership role in the OpenStack and Cloud Native communities, and finished my career there as VP Marketing having multiplied our revenue and clientele, and led a team focused on marketing & community, lead generation & data analysis, as well as business development.</p>
 				<strong>Achievements:</strong>
 				<ul>
 				<li>Managed a team of senior marketing experts - marketing, community evangelist, data analyst, and business development</li>
