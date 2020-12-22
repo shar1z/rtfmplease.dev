@@ -97,7 +97,7 @@ nav-menu: true
 				<header class="major">
 					<h3>What I've Learned</h3>
 				</header>
-				<blockquote><strong>"The proof of the pudding is in the eating."</strong></blockquote>
+				<blockquote style="text-transform: uppercase; color: turquoise;"><strong>"The proof of the pudding is in the eating."</strong></blockquote>
 				<ul>
 				<li>Technology & product marketing</li>
 				<li>Optimizing the customer & user journey</li>
@@ -105,7 +105,6 @@ nav-menu: true
 				<li>Building measurement and data-driven analysis into strategy from the ground up</li>
 				<li>Hacking developer communities for scale</li>
 				<li>End-to-end technology events management</li>
-				<li>Leadership vs. just management</li>
 				</ul>
 			</div>
 		</div>
