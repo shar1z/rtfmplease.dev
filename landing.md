@@ -121,29 +121,29 @@ nav-menu: true
 				</header>
 				<details><summary><strong>Writing & Publications</strong></summary>
 				<ul>
-				<li><a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li>
+				<li>WRITING: <a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li>
 				<li><a href="https://thenewstack.io/what-the-fork-amazon/" target="_blank">What the Fork, Amazon?</a></li>
-				<li>Editing - Deep Tech: <a href="https://www.infoq.com/articles/applied-probability-unstructured-events-theta-sketches/" target="_blank">Applied Probability - Counting Large Set of Unstructured Events with Theta Sketches</a></li>
-				<li>Editing & Curating - Series: <a href="https://devseccon.com/secadvent-2020" target="_blank"> SecAdvent 2020</a></li>
-				<li><a href="https://medium.com/@shar1z" target="_blank">My Medium Blog</a></li>
+				<li>EDITING - DEEP TECH: <a href="https://www.infoq.com/articles/applied-probability-unstructured-events-theta-sketches/" target="_blank">Applied Probability - Counting Large Set of Unstructured Events with Theta Sketches</a></li>
+				<li>EDITING & CURATING - FULL SERIES: <a href="https://devseccon.com/secadvent-2020" target="_blank"> SecAdvent 2020</a></li>
+				<li>WRITING: <a href="https://medium.com/@shar1z" target="_blank">My Medium Blog</a></li>
 				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>&nbsp;
 				<h4>Podcasts:</h4>
-				<li>The Open Source Podcast (2016-2018 -- Curated Content and Co-Hosted) - <a href="https://soundcloud.com/theopensourcepodcast" target="_blank">SoundClolud</a> | <a href="https://www.youtube.com/channel/UCRIHdXlGaV5CvFRynkA-r3A" target="_blank">YouTube</a></li>
-				<li><a href="https://podtail.com/en/podcast/devinsider-the-story-of-the-israeli-tech-companies/sharone-zitzman-appsflyer-under-the-hood/" target="_blank">DevInsider: AppsFlyer Under the hood</a></li>
-				<li><a href="https://thenewstack.io/context-amazons-elastic-distribution-the-business-of-quantum-computing/" target="_blank">Context: Amazon’s Elastic Distribution, the Business of Quantum Computing</a></li>
+				<li>LED & PRODUCED: The Open Source Podcast (2016-2018 -- Curated Content and Co-Hosted) - <a href="https://soundcloud.com/theopensourcepodcast" target="_blank">SoundClolud</a> | <a href="https://www.youtube.com/channel/UCRIHdXlGaV5CvFRynkA-r3A" target="_blank">YouTube</a></li>
+				<li>GUEST: <a href="https://podtail.com/en/podcast/devinsider-the-story-of-the-israeli-tech-companies/sharone-zitzman-appsflyer-under-the-hood/" target="_blank">DevInsider: AppsFlyer Under the hood</a></li>
+				<li>GUEST: <a href="https://thenewstack.io/context-amazons-elastic-distribution-the-business-of-quantum-computing/" target="_blank">Context: Amazon’s Elastic Distribution, the Business of Quantum Computing</a></li>
 				</ul>
 				</details>
-				<details><summary><strong>Speaking</strong></summary>
+				<details><summary><strong>Speaking & Confs</strong></summary>
 				<ul>
-				<li>MCing: jsday Online Conf 2020</a></li>
+				<li>MCing: jsday Online Conf 2020</li>
 				<li>MCing: <a href="https://2020.accento.dev/interactives" target="_blank"> Accento Dev Conf 2020 - Security Track</a></li>
 				<li>MCing: <a href="https://youtu.be/_iez-m7AxdA" target="_blank">All the Talks Virtual Conf 2020</a></li>
-				<li><a href="https://www.youtube.com/watch?v=EFI5V-Vqulo" target="_blank">Game of Open Source: A Tale of Hype & Mire - Keynote, jsday 2019</a></li>
-				<li><a href="https://www.youtube.com/watch?v=kttJ7js7uC8" target="_blank">Artificial Insanity - How to Keep Calm & Combat Imposter Syndrome, Reversim 2019</a></li>
-				<li><a href="https://www.youtube.com/watch?v=8AURp2imtKQ" target="_blank">When Your Open Source Project Stops Being Cool - Sharone Zitzman - DevOpsDays Tel Aviv 2017</a></li>
-				<li><a href="https://www.youtube.com/watch?v=ZolFwqJ2whw" target="_blank">Azure, OpenStack & Kubernetes Multi-Stack Orchestration | Go Open Source Tel Aviv, 2018</a></li>
-				<li><a href="https://www.youtube.com/watch?v=pTNngYk1pgU" target="_blank">The Amazon Effect on Open Source Cloud Business Models, OpenStack Summit Boston, 2017</a></li>
-				<li><a href="https://www.youtube.com/watch?v=8AURp2imtKQ&list=PLaPhdMYPt9Qh9J3IdJYgTGtRUouOurd38" target="_blank">More Talks Playlist</a></li>
+				<li>SPEAKING - KEYNOTE: <a href="https://www.youtube.com/watch?v=EFI5V-Vqulo" target="_blank">Game of Open Source: A Tale of Hype & Mire - Keynote, jsday 2019</a></li>
+				<li>SPEAKING: <a href="https://www.youtube.com/watch?v=kttJ7js7uC8" target="_blank">Artificial Insanity - How to Keep Calm & Combat Imposter Syndrome, Reversim 2019</a></li>
+				<li>SPEAKING: <a href="https://www.youtube.com/watch?v=8AURp2imtKQ" target="_blank">When Your Open Source Project Stops Being Cool - Sharone Zitzman - DevOpsDays Tel Aviv 2017</a></li>
+				<li>SPEAKING: <a href="https://www.youtube.com/watch?v=ZolFwqJ2whw" target="_blank">Azure, OpenStack & Kubernetes Multi-Stack Orchestration | Go Open Source Tel Aviv, 2018</a></li>
+				<li>SPEAKING: <a href="https://www.youtube.com/watch?v=pTNngYk1pgU" target="_blank">The Amazon Effect on Open Source Cloud Business Models, OpenStack Summit Boston, 2017</a></li>
+				<li>SPEAKING: <a href="https://www.youtube.com/watch?v=8AURp2imtKQ&list=PLaPhdMYPt9Qh9J3IdJYgTGtRUouOurd38" target="_blank">More Talks Playlist</a></li>
 				</ul>
 				</details>
 				<details><summary><strong>Events & Communities</strong></summary>
