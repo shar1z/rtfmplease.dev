@@ -123,6 +123,8 @@ nav-menu: true
 				<ul>
 				<li><a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li>
 				<li><a href="https://thenewstack.io/what-the-fork-amazon/" target="_blank">What the Fork, Amazon?</a></li>
+				<li>Editing - Deep Tech: <a href="https://www.infoq.com/articles/applied-probability-unstructured-events-theta-sketches/" target="_blank">Applied Probability - Counting Large Set of Unstructured Events with Theta Sketches</a></li>
+				<li>Editing & Curating - Series: <a href="https://devseccon.com/secadvent-2020" target="_blank"> SecAdvent 2020</a></li>
 				<li><a href="https://medium.com/@shar1z" target="_blank">My Medium Blog</a></li>
 				<li><a href="https://opensource.com/business/16/4/openstack-summit-interview-sharone-zitzman" target="_blank">Organizing the OpenStack community locally and globally</a></li>&nbsp;
 				<h4>Podcasts:</h4>
@@ -133,6 +135,9 @@ nav-menu: true
 				</details>
 				<details><summary><strong>Speaking</strong></summary>
 				<ul>
+				<li>MCing: jsday Online Conf 2020</a></li>
+				<li>MCing: <a href="https://2020.accento.dev/interactives" target="_blank"> Accento Dev Conf 2020 - Security Track</a></li>
+				<li>MCing: <a href="https://youtu.be/_iez-m7AxdA" target="_blank">All the Talks Virtual Conf 2020</a></li>
 				<li><a href="https://www.youtube.com/watch?v=EFI5V-Vqulo" target="_blank">Game of Open Source: A Tale of Hype & Mire - Keynote, jsday 2019</a></li>
 				<li><a href="https://www.youtube.com/watch?v=kttJ7js7uC8" target="_blank">Artificial Insanity - How to Keep Calm & Combat Imposter Syndrome, Reversim 2019</a></li>
 				<li><a href="https://www.youtube.com/watch?v=8AURp2imtKQ" target="_blank">When Your Open Source Project Stops Being Cool - Sharone Zitzman - DevOpsDays Tel Aviv 2017</a></li>
@@ -143,6 +148,7 @@ nav-menu: true
 				</details>
 				<details><summary><strong>Events & Communities</strong></summary>
 				<ul>
+				<li>Launched <a href="https://tlvcommunity.dev" target="">TLV Community</a> to unite leading DevOps TLV communities under one roof - with a flagship virtual event in 2020.</li>
 				<li><a href="https://devopsdaystlv.com" target="">DevOpsDays Tel Aviv</a> (Co-Founder and Co-Organizer)</li>
 				<li><a href="" target="https://cloudnativeisrael.com">Cloud Native Day Tel Aviv</a> (formerly OpenStack Days Tel Aviv - Co-Founder and Co-Organizer)</li>
 				<li><a href="" target="https://statscraft.org.il">StatsCraft</a> (the foremost monitoring conference in Israel - Co-Organizer)</li>&nbsp;
