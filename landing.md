@@ -30,6 +30,18 @@ nav-menu: true
 				<header class="major">
 				<h3>Where I've Worked</h3>
 				</header>
+				<details><summary><strong>Head of User Commmunities, Snyk</strong></summary>
+				<p>At Snyk I led two primary communities - the DevSecCon community and Snyk Developer Community</p>
+				<strong>Achievements:</strong>
+				<ul>
+				Some Achievements:
+				<li>Infrastructure: Built the Snyk User Community from the ground up, based on Forem.com at <a href="https://community.snyk.io" target="_blank">community.snyk.io</a>, while delivering the ongoing content, live events and breathing heart of the community</li>
+				<li>Innovation: Converged two popular DevSecOps communities into one site - mydevsecops.io into <a href="https://devseccon.com" target="_blank">devseccon.com</a> - taking the largely f2f conference site and community to a digitized COVID-ready platform with ongoing technical content and events.</li>
+				<li>Growth: Grew DevSecCon community by 150%+ in 6 months, and delivered 2000+ attendee global virtual event</li>
+				<li> SEO & Content: Launched the first-ever <a href="https://devseccon.com/secadvent-2020" target="_blank">SecAdvent blog post series</a> with 25 posts throughout December on leading security topics, by influencers in the security industry.</li>
+				<li> Reach (<a href="https://community.snyk.io/snyk-team-content" target="_blank">see here</a>): Organized community opps for the extended team on leading podcasts including: Javascript Jabber, Arrested DevOps, Conversations with Bacon, Page it to the Limit, Reversim, the Open Source Security Podcast, and more.</li>
+					</ul>
+				</details>
 				<details><summary><strong>Head of Developer Relations, AppsFlyer</strong></summary>
 				<p>After parting from Cloudify - my professional home for more than 7 years, I crystalized that the parts I enjoyed most about my time there was the strong focus on building developer communities and developer-facing products.  And that is why I decided to go all-in on a developer relations role.  In this capacity I am striving to build a culture focused on engineering excellence and craftsmanship, as well as a stellar developer experience for our suite of products and developer tools.</p>
 				<strong>Achievements:</strong>
