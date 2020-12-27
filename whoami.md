@@ -60,8 +60,8 @@ nav-menu: true
 				<li>Built sustainable long-term content strategy (See <a href="https://medium.com/appsflyer" target="_blank">medium.com/AppsFlyer</a>)</li>
 					</ul>
 				</details>
-				<details><summary><strong>VP Marketing, Cloudify Platform LTD.</strong></summary>
-				<p>I was employed at Cloudify -- a spinoff of GigaSpaces Technologies LTD. -- from February 2011 through October 2018, where I started by building the open source developer community from the ground up, taking a leadership role in the OpenStack and Cloud Native communities, and finished my career there as VP Marketing having multiplied our revenue and clientele, and led a team focused on marketing & community, lead generation & data analysis, as well as business development.</p>
+				<details><summary><strong>VP Marketing, Cloudify</strong></summary>
+				<p>I was employed at Cloudify -- a spinoff of GigaSpaces Technologies -- from February 2011 through October 2018, where I started by building the open source developer community from the ground up, taking a leadership role in the OpenStack and Cloud Native communities, and finished my career there as VP Marketing having multiplied our revenue and clientele, and led a team focused on marketing & community, lead generation & data analysis, as well as business development.</p>
 				<strong>Achievements:</strong>
 				<ul>
 				<li>Managed a team of senior marketing experts - marketing, community evangelist, data analyst, and business development</li>
@@ -97,12 +97,11 @@ nav-menu: true
 				<header class="major">
 					<h3>What I've Learned</h3>
 				</header>
-				<blockquote style="text-transform: uppercase; color: turquoise;"><strong>"The proof of the pudding is in the eating."</strong></blockquote>
 				<ul>
-				<li>Technology & product marketing</li>
-				<li>Optimizing the customer & user journey</li>
+				<li>Technology & product and developer-focused marketing</li>
+				<li>Optimizing the developer experience of products</li>
 				<li>Simplifying complex technology concepts</li>
-				<li>Building measurement and data-driven analysis into strategy from the ground up</li>
+				<li>Empowering engineering brands</li>
 				<li>Hacking developer communities for scale</li>
 				<li>End-to-end technology events management</li>
 				</ul>
