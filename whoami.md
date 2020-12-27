@@ -90,7 +90,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/pic082.jpg" alt="" data-position="top center" />
+			<img src="assets/images/pic081.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -111,7 +111,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="#" class="image">
-			<img src="assets/images/pic081.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/pic082.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
