@@ -94,7 +94,7 @@ nav-menu: true
 			<div class="inner">
 					<h3 style="text-transform: uppercase; color: #faa344;">{ <i class="fa fa-magic"></i> What I've Learned }</h3>
 				<ul>
-				<li>Technology & product and developer-focused marketing</li>
+				<li>Technology, product and developer-focused marketing</li>
 				<li>Optimizing the developer experience of products</li>
 				<li>Simplifying complex technology concepts</li>
 				<li>Empowering engineering brands</li>
