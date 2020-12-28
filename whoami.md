@@ -27,7 +27,7 @@ nav-menu: true
 		</a>
 		<div class="content">
 			<div class="inner">
-				<h3 style="text-transform: uppercase; color: #d95374;">{ <i class="fa fa-cogs"></i> Where I've Worked }</h3>
+				<h3 style="text-transform: uppercase; color: #d95374;">{ <i class="fa fa-cogs"></i> &nbsp;Where I've Worked }</h3>
 				<details><summary><strong>Head of User Commmunities, Snyk</strong></summary>
 				<p>At Snyk I led two primary communities - the DevSecCon community and Snyk Developer Community</p>
 				<strong>Achievements:</strong>
@@ -92,7 +92,7 @@ nav-menu: true
 		</a>
 		<div class="content">
 			<div class="inner">
-					<h3 style="text-transform: uppercase; color: #faa344;">{ <i class="fa fa-magic"></i> What I've Learned }</h3>
+					<h3 style="text-transform: uppercase; color: #faa344;">{ <i class="fa fa-magic"></i> &nbsp;What I've Learned }</h3>
 				<ul>
 				<li>Technology, product and developer-focused marketing</li>
 				<li>Optimizing the developer experience of products</li>
@@ -110,7 +110,7 @@ nav-menu: true
 		</a>
 		<div class="content">
 			<div class="inner">
-					<h3 style="text-transform: uppercase; color: #c0d44f;">{ <i class="fa fa-hand-peace-o"></i> Street Cred }</h3>
+					<h3 style="text-transform: uppercase; color: #c0d44f;">{ <i class="fa fa-hand-peace-o"></i> &nbsp;Street Cred }</h3>
 				<details><summary><strong>Writing & Publications</strong></summary>
 				<ul>
 				<li>WRITING: <a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li>
