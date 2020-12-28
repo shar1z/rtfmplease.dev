@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: <i class="fa fa-home"></i> Home
 landing-title: 'Hi, my name is Sharone Zitzman'
 description: null
 image: null

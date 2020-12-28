@@ -1,5 +1,5 @@
 ---
-title: whoami
+title: <i class="fa fa-question"></i> whoami
 layout: landing
 description: 'Sharone Zitzman, Marketing Technologist'
 image: assets/images/pic07.jpg

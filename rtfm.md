@@ -1,5 +1,5 @@
 ---
-title: RTFM Please
+title: <i class="fa fa-info-circle"></i> RTFM Please
 layout: page
 description: 'RTFM Please - The Dev Marketing Source'
 image: assets/images/pic07.jpg
