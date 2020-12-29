@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>whoami</h2>
+			<h2 style="font-family: monospace;">whoami</h2>
 		</header>
 		<p>Hi, I'm Sharone Zitzman, a marketing technologist and open source community builder, who likes to work with engineering teams that are building products that developers love. Having built both the <a href="https://devopsdaystlv.com" target="_blank">DevOps Israel</a> and <a href="https://cloudnativeisrael.com" target="_blank">Cloud Native Israel</a> communities from the ground up, today I spend my time finding the places where technology and people intersect and ensuring that this is an excellent experience. You can find my talks, articles, and employment experience below. Find me on <a href="https://twitter.com/shar1z" target="_blank">Twitter</a> or <a href="https://github.com/shar1z" target="_blank">Github</a> as @shar1z.</p>
 	</div>
@@ -27,7 +27,7 @@ nav-menu: true
 		</a>
 		<div class="content">
 			<div class="inner">
-				<h3 style="text-transform: uppercase; color: #d95374;">{ <i class="fa fa-cogs"></i> &nbsp;Where I've Worked }</h3>
+				<h3 style="text-transform: uppercase; color: #d95374; font-family: monospace;">{ <i class="fa fa-cogs"></i> &nbsp;Where I've Worked }</h3>
 				<details><summary><strong>Head of User Commmunities, Snyk</strong></summary>
 				<p>At Snyk I led two primary communities - the DevSecCon community and Snyk Developer Community</p>
 				<strong>Achievements:</strong>
@@ -92,7 +92,7 @@ nav-menu: true
 		</a>
 		<div class="content">
 			<div class="inner">
-					<h3 style="text-transform: uppercase; color: #faa344;">{ <i class="fa fa-magic"></i> &nbsp;What I've Learned }</h3>
+					<h3 style="text-transform: uppercase; color: #faa344; font-family: monospace;">{ <i class="fa fa-magic"></i> &nbsp;What I've Learned }</h3>
 				<ul>
 				<li>Technology, product and developer-focused marketing</li>
 				<li>Optimizing the developer experience of products</li>
@@ -110,7 +110,7 @@ nav-menu: true
 		</a>
 		<div class="content">
 			<div class="inner">
-					<h3 style="text-transform: uppercase; color: #c0d44f;">{ <i class="fa fa-hand-peace-o"></i> &nbsp;Street Cred }</h3>
+					<h3 style="text-transform: uppercase; color: #c0d44f; font-family: monospace;">{ <i class="fa fa-hand-peace-o"></i> &nbsp;Street Cred }</h3>
 				<details><summary><strong>Writing & Publications</strong></summary>
 				<ul>
 				<li>WRITING: <a href="https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/" target="_blank">Challenge Industry Norms and Redefine Your Technology Roles</a></li>
