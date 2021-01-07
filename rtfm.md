@@ -107,7 +107,7 @@ nav-menu: true
 			<details><summary><span style="text-transform: uppercase; color:turquoise; font-family: monospace; font-size: 1.5em;"><i class="fa fa-cog"></i>  RTFM Please - Service Offering</span></summary>
 <br/>
 
-<table style="overflow-x:auto;>
+<table style="overflow-x:auto;">
 		<thead>
 			<tr>
 				<th>Service Type</th>
