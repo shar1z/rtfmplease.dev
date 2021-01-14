@@ -1,18 +1,29 @@
-<!-- Contact -->
+
+	<!-- Contact -->
 <section id="contact">
 	<div class="inner">
-		<section>
-		<p style="text-align: center;">
-		<h3>Community Involvement:</h3>
-		
-				<a href="https://devopsdaystlv.com" class="image">
-						<img src="assets/images/DevOps LOGO WH GEN-NO-BG-02.png" width="150" alt="" />
-					</a>  <a href="https://cloudnativeisrael.com" class="image">
-						<img src="assets/images/Cloud Native Day - TShirt-02.png" width="150" alt="" />
-					</a>  <a href="https://statscraft.org.il" class="image">
-						<img src="assets/images/statscraft logo WH.png" width="150" alt="" />
-					</a> </p> 
-		</section> 
+			<section>
+				<h3 style="text-transform: uppercase; color: #faa344; font-family: monospace;">{ <i class="fa fa-edit"></i> &nbsp;Get in Touch }</h3>
+
+			<form action="https://formspree.io/f/xwkwazgz" method="POST">
+				<div class="field half first">
+					<label for="name">Name</label>
+					<input type="text" name="name" id="name" />
+				</div>
+				<div class="field half">
+					<label for="email">Email</label>
+					<input type="text" name="_replyto" id="email" />
+				</div>
+				<div class="field">
+					<label for="message">Message</label>
+					<textarea name="message" id="message" rows="6"></textarea>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="reset" value="Clear" /></li>
+				</ul>
+			</form>
+		</section>
 		<section class="split">
 			<section>
 				<div class="contact-method">
@@ -28,6 +39,8 @@
 				</div>
 			</section>
 			<section>
+
+
 				<div class="contact-method">
 					<span class="icon alt fa-twitter"></span>
 					<h3><a href="https://twitter.com/shar1z" target="_blank">Twitter</a></h3>
@@ -44,22 +57,50 @@
 </section>
 
 <!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
-			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Big Thanks for a Kickass Theme:</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
-
-			</ul>
+<footer id="footer">
+	<div class="inner">
+			<div class="row">
+			<span style="text-transform: uppercase;"><h5>COMMUNITY INVOLVEMENT:</h5>
+				<p><a href="{{ site.devopsdays_url }}" target="_blank"><img src="https://tlvcommunity.dev/assets/images/devopsdays-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="{{ site.statscraft_url }}" target="_blank"><img src="https://tlvcommunity.dev/assets/images/statscraft-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="{{ site.cloudnative_url }}" target="_blank"><img src="https://tlvcommunity.dev/assets/images/cloudnative-SQ.png" width="150"></a>&nbsp;&nbsp;<a href="https://www.meetup.com/DevRel/" target="_blank"><img src="https://tlvcommunity.dev/assets/images/devrel-il-SQ.png" width="130"></a></p></span>
 		</div>
+		<ul class="icons">
+			{% if site.twitter_url %}
+			<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+			{% endif %}
+			{% if site.facebook_url %}
+			<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+			{% endif %}
+			{% if site.github_url %}
+			<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+			{% endif %}
+			{% if site.slack_url %}
+			<li><a href="{{ site.discord_url }}" class="icon alt fa-comment" target="_blank"><span class="label">Discord</span></a></li>
+			{% endif %}
+			{% if site.linkedin_url %}
+			<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+			{% endif %}
+			
+		</ul>
+		
+		<ul class="copyright">
+			<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+			<li>Big Thanks for a Kickass Theme: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+			<li>Thanks for the Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
 
-		{% include gtag.html %}
+		</ul>
+	</div>
+</footer>
+
+</div>
+
+
+	{% include gtag.html %}
 
 	</footer>
 
 </div>
+
+
 
 <!-- Scripts -->
 

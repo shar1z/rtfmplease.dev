@@ -1,1 +1,38 @@
 theme: jekyll-theme-minimal
+
+# site settings
+title: RTFM Please LTD.
+subtitle: The Dev Marketing Source
+email: 
+description: Developer-first marketing and strategic storytelling
+baseurl: # the subpath of your site, e.g. /blog
+url: https://rtfmplease.dev # the base hostname & protocol for your site
+author:
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 
+
+# homepage tiles
+tiles-source: "pages" # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+facebook_url:
+github_url: https://github.com/shar1z
+linkedin_url: https://www.linkedin.com/in/sharonez
+discord_url: https://discord.gg/fV4cMKQ
+twitter_url: https://twitter.com/shar1z
+devopsdays_url: https://devopsdaystlv.com
+cloudnative_url: https://cloudnativeisrael.com
+statscraft_url: http://statscraft.org.il
+
+
+markdown: kramdown
+kramdown:
+  input: GFM      
+
+sass:
+  style: compressed
