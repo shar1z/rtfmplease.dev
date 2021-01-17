@@ -158,8 +158,6 @@ nav-menu: true
 
 <!-- Two -->
 
-{% include tiles.html %}
-
 <section id="two" class="spotlights">
 	<section>
     <a href="#" class="image">
