@@ -101,15 +101,14 @@ nav-menu: true
 
 				</details>
 				<br/>
-				<h4 style="text-transform: uppercase; color:turquoise; font-family: monospace;"> <i class="icon fa-plug" style="color: #ffffff"></i>&nbsp;THE TLV COMMUNITY</h4>				<iframe
-  src="https://luma.com/embed/calendar/cal-qmBCPYlhYzHECCs/events"
+				<h4 style="text-transform: uppercase; color:turquoise; font-family: monospace;"> <i class="icon fa-plug" style="color: #ffffff"></i>&nbsp;THE TLVCOMMUNITY</h4>				
+				<iframe src="https://luma.com/embed/calendar/cal-qmBCPYlhYzHECCs/events?lt=dark"
   width="600"
   height="450"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"></iframe>
+  aria-hidden="false" tabindex="0"></iframe>
    </div>
 
 
