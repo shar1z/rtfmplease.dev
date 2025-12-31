@@ -35,7 +35,7 @@ nav-menu: true
 {% include client_pr.html %}
 
    <div class="box">
-	<h2 style="text-transform: uppercase; color:turquoise; font-family: monospace;"><i class="fa fa-star-o"></i> More Samples of Work</h2>
+	<h2 style="text-transform: uppercase; color:turquoise; font-family: monospace;"><i class="fa fa-star-o"></i> More Samples of Work (In-House)</h2>
    <details><summary><strong>CONTENT</strong></summary>
    <br/>
 				<p>Highlights of content extracted <em style="font-weight: 700; color: turquoise;">from</em> engineers:</p>
@@ -68,8 +68,8 @@ nav-menu: true
 				<details><summary><strong>EVENTS</strong></summary>
 				<ul>
 				<li><span style="font-weight: 700; color: turquoise;">Speaker & Talk Database:&nbsp;</span><a href="https://github.com/AppsFlyer/engineering-org-resources" target="_blank">&nbsp;AppsFlyer Sample</a></li>
-				<li><span style="font-weight: 700; color: turquoise;">Hackathon Production:&nbsp;</span> <i class="icon fa-link" style="color: #c0d44f;"></i><a href="https://hackweek.dev" target="_blank">&nbsp;Hackathon Website&nbsp;</a> <i class="icon fa-play" style="color: #c0d44f;"></i> <a href="https://www.youtube.com/watch?v=j6g9Ea38EtI" target="_blank">&nbsp;Hackathon Post-Event Video</a></li>
-				<li><span style="font-weight: 700; color: turquoise;">Event Production:</span><a href="https://devopsdaystlv.com" target="_blank">&nbsp;DevOpsDays TLV&nbsp;</a> <i class="icon fa-cog" style="color: #faa344;"></i> <a href="https://cloudnativeisrael.com" target="_blank">&nbsp;Cloud Native Day Tel Aviv&nbsp;</a> <i class="icon fa-cog" style="color: #d95374;"></i> &nbsp;<a href="https://statscraft.org.il" target="_blank">Statscraft&nbsp;</a> <i class="icon fa-cog" style="color: #c0d44f;"></i>  <a href="https://tlvcommunity.dev" target="_blank">&nbsp;Community Summit TLV&nbsp;</a> <i class="icon fa-cog" style="color: #a472d4;"></i> <a href="https://www.devseccon.com/pf/devseccon24-2020/" target="_blank">&nbsp;DevSecCon24</a></li>
+				<li><span style="font-weight: 700; color: turquoise;">[TAKEN DOWN - DEPRECATED] Hackathon Production:&nbsp;</span> <i class="icon fa-link" style="color: #c0d44f;"></i><a href="https://hackweek.dev" target="_blank">&nbsp;Hackathon Website&nbsp;</a> <i class="icon fa-play" style="color: #c0d44f;"></i> <a href="https://www.youtube.com/watch?v=j6g9Ea38EtI" target="_blank">&nbsp;Hackathon Post-Event Video</a></li>
+				<li><span style="font-weight: 700; color: turquoise;">Event Production:</span><a href="https://tlvcommunity.dev/devopsdays" target="_blank">&nbsp;DevOpsDays TLV&nbsp;</a> <i class="icon fa-cog" style="color: #faa344;"></i> <a href="https://tlvcommunity.dev/cloudnativeIL.html" target="_blank">&nbsp;Cloud Native Day Tel Aviv&nbsp;</a> <i class="icon fa-cog" style="color: #d95374;"></i> &nbsp;<a href="https://statscraft.org.il" target="_blank">Statscraft&nbsp;</a> <i class="icon fa-cog" style="color: #c0d44f;"></i>  <a href="https://tlvcommunity.dev" target="_blank">&nbsp;Community Summit TLV&nbsp;</a> <i class="icon fa-cog" style="color: #a472d4;"></i> <a href="https://www.devseccon.com/pf/devseccon24-2020/" target="_blank">&nbsp;DevSecCon24</a></li>
 				</ul>
 
 				Snapshot of Top-Tier Speaking Opportunities:
