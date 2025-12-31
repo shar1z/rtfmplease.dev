@@ -36,7 +36,7 @@ nav-menu: true
 
 <span style="text-transform: uppercase; color:turquoise; font-family: monospace; font-size: 1.5em;"><i class="fa fa-cog"></i>  RTFM Please Customers - Publications & Podcasts </span>
 
-{% include client pr %}
+{% include client_pr.html %}
 </div>
 
    <div class="box">
