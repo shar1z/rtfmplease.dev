@@ -33,11 +33,11 @@ nav-menu: true
    </div>
 
 <div class="box">
-
 <span style="text-transform: uppercase; color:turquoise; font-family: monospace; font-size: 1.5em;"><i class="fa fa-cog"></i>  RTFM Please Customers - Publications & Podcasts </span>
 
 {% include client_pr.html %}
 </div>
+
 
    <div class="box">
 
@@ -101,16 +101,16 @@ nav-menu: true
 
 				</details>
 				<br/>
-				<h4 style="text-transform: uppercase; color:turquoise; font-family: monospace;"> <i class="icon fa-plug" style="color: #ffffff"></i>&nbsp;THE TLVCOMMUNITY</h4>				
+				<h4 style="text-transform: uppercase; color:turquoise; font-family: monospace;"> <i class="icon fa-plug" style="color: #ffffff"></i>&nbsp;THE TLV COMMUNITY</h4>			
 				<iframe src="https://luma.com/embed/calendar/cal-qmBCPYlhYzHECCs/events?lt=dark"
   width="600"
   height="450"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allowfullscreen=""
-  aria-hidden="false" tabindex="0"></iframe>
+  aria-hidden="false"
+  tabindex="0"></iframe>
    </div>
-
 
 
 <!-- <div class="box">
@@ -163,8 +163,8 @@ nav-menu: true
 
 	</div>
 
-	</div> 
-</section> -->
+	</div> -->
+</section>
 
 <!-- Two -->
 
