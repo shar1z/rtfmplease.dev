@@ -32,17 +32,10 @@ nav-menu: true
 
    </div>
 
-<div class="box">
-<span style="text-transform: uppercase; color:turquoise; font-family: monospace; font-size: 1.5em;"><i class="fa fa-cog"></i>  RTFM Please Customers - Publications & Podcasts </span>
-
 {% include client_pr.html %}
-</div>
-
 
    <div class="box">
-
 	<h2 style="text-transform: uppercase; color:turquoise; font-family: monospace;"><i class="fa fa-star-o"></i> More Samples of Work</h2>
-
    <details><summary><strong>CONTENT</strong></summary>
    <br/>
 				<p>Highlights of content extracted <em style="font-weight: 700; color: turquoise;">from</em> engineers:</p>
@@ -163,8 +156,8 @@ nav-menu: true
 
 	</div>
 
-	</div> -->
-</section>
+	</div> 
+</section>-->
 
 <!-- Two -->
 
