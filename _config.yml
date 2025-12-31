@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 # site settings
 title: RTFM Please LTD.
-subtitle: The Dev Marketing Source
+subtitle: The DevRel Source
 email: 
 description: Developer-first marketing and strategic storytelling
 baseurl: # the subpath of your site, e.g. /blog
@@ -25,8 +25,8 @@ github_url: https://github.com/shar1z
 linkedin_url: https://www.linkedin.com/in/sharonez
 discord_url: https://discord.gg/fV4cMKQ
 twitter_url: https://twitter.com/shar1z
-devopsdays_url: https://devopsdaystlv.com
-cloudnative_url: https://cloudnativeisrael.com
+devopsdays_url: https://tlvcommunity.dev/devopsdays
+cloudnative_url: https://tlvcommunity.dev/cloudnativeIL.html
 statscraft_url: http://statscraft.org.il
 
 
