@@ -94,7 +94,7 @@ nav-menu: true
 
 				</details>
 				<br/>
-				<h4 style="text-transform: uppercase; color:turquoise; font-family: monospace;"> <i class="icon fa-plug" style="color: #ffffff"></i>&nbsp;THE TLV COMMUNITY</h4>			
+				<h4 style="text-transform: uppercase; color:turquoise; font-family: monospace;"> <i class="icon fa-plug" style="color: #ffffff"></i>&nbsp;THE TLVCOMMUNITY - DevOpsDays TLV | Cloud Native & OSS IL | Statscraft | Serverless Nights</h4>			
 				<iframe src="https://luma.com/embed/calendar/cal-qmBCPYlhYzHECCs/events?lt=dark"
   width="600"
   height="450"
