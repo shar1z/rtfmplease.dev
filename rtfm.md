@@ -23,14 +23,21 @@ nav-menu: true
      </span>
 
 	<hr/>
-	 <h2>Customer Success Stories</em></h2>
+	 <h2>Customer Success Stories</h2>
 
-	<h2 style="text-transform: uppercase; color:turquoise; font-family: monospace;"><i class="fa fa-hand-video-o"></i> Conference Talks</h2>
+	<h2 style="text-transform: uppercase; color:turquoise; font-family: monospace;"><i class="fa fa-hand-video-o"></i> Customer Conference Talks</h2>
     <!-- Elfsight YouTube Gallery | RTFM Customers Talk Gallery -->
 <script src="https://elfsightcdn.com/platform.js" async></script>
 <div class="elfsight-app-a5efe14d-cc13-4aba-9af9-119b15f560d2" data-elfsight-app-lazy></div>
 
    </div>
+
+<div class="box">
+
+<span style="text-transform: uppercase; color:turquoise; font-family: monospace; font-size: 1.5em;"><i class="fa fa-cog"></i>  RTFM Please Customers - Publications & Podcasts </span>
+
+{% include client pr %}
+</div>
 
    <div class="box">
 
@@ -105,12 +112,7 @@ nav-menu: true
   tabindex="0"></iframe>
    </div>
 
-<div class="box">
 
-<span style="text-transform: uppercase; color:turquoise; font-family: monospace; font-size: 1.5em;"><i class="fa fa-cog"></i>  RTFM Please Customers - Publications & Podcasts </span>
-
-{ %include client pr %}
-</div>
 
 <!-- <div class="box">
 			<details><summary><span style="text-transform: uppercase; color:turquoise; font-family: monospace; font-size: 1.5em;"><i class="fa fa-cog"></i>  RTFM Please - Service Offering</span></summary>
