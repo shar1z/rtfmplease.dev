@@ -12,9 +12,11 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-			<h2 style="text-transform: uppercase; color:turquoise; font-family: monospace;"><i class="fa fa-hand-scissors-o"></i>  RTFM Please Ltd. - Fractional Developer Relations</h2>
+			<h2 style="text-transform: uppercase; color:turquoise; font-family: monospace;"><i class="fa fa-hand-scissors-o"></i>  RTFM Please Ltd. - Strategic Technical Storytelling</h2>
             <div class="box">
          <p>Most technical products have difficulty properly telling their engineering story. While one developer advocate can do wonders - I help flip this paradigm and evolve your engineers into your product champions and advocates, to help define your strategic technical narrative, and  drive developer-first adoption.</p>
+
+		 <p>‘But my engineers <em>don’t like</em> to write content’, you say. ‘And my engineers don’t like to <em>do talks</em>’.</p>
 
         
     <h4>This is where I can <strong style="text-transform: uppercase; color:turquoise; font-family: monospace;">help</strong>:</h4>
@@ -23,18 +25,15 @@ nav-menu: true
      </span>
 
 	<hr/>
-	 <h2>Customer Success Stories</em></h2>
-
-	<h2 style="text-transform: uppercase; color:turquoise; font-family: monospace;"><i class="fa fa-hand-video-o"></i> Conference Talks</h2>
-    <!-- Elfsight YouTube Gallery | RTFM Customers Talk Gallery -->
-<script src="https://elfsightcdn.com/platform.js" async></script>
-<div class="elfsight-app-a5efe14d-cc13-4aba-9af9-119b15f560d2" data-elfsight-app-lazy></div>
+	 <h4>How does it <em style="font-weight: 900; font-family: monospace; color: turquoise;">work?</em></h4>
+	 <p>I can provide you with the content, strategy and tools to create engineering brand equity, and accelerate adoption of technology products. <br/>Some of the stuff <em style="font-weight: 700; color: turquoise;">I can do:</em></p>
+	 <ul class="icons"><li><i class="icon fa-cog" style="color: turquoise;"></i> Technical Product Marketing </li><li><i class="icon fa-cog" style="color: #d95374;"></i> Technical Brand Equity and Management</li><li><i class="icon fa-cog" style="color: #c0d44f;"></i> Excellent Deep Tech Content</li><li><i class="icon fa-cog" style="color: #faa344;"></i> Outbound and Promotion to Relevant Tech Communities</li><li><i class="icon fa-cog" style="color: #a472d4;"></i> Dev & Tech Event Production </li><li><i class="icon fa-cog" style="color: #84d3f6;"></i> Networking, Reach & Growth</li></ul>
 
    </div>
 
    <div class="box">
 
-	<h2 style="text-transform: uppercase; color:turquoise; font-family: monospace;"><i class="fa fa-star-o"></i> More Samples of Work</h2>
+	<h2 style="text-transform: uppercase; color:turquoise; font-family: monospace;"><i class="fa fa-star-o"></i>  Samples of Work</h2>
 
    <details><summary><strong>CONTENT</strong></summary>
    <br/>
@@ -94,25 +93,17 @@ nav-menu: true
 
 				</details>
 				<br/>
-				<h4 style="text-transform: uppercase; color:turquoise; font-family: monospace;"> <i class="icon fa-plug" style="color: #ffffff"></i>&nbsp;THE TLV COMMUNITY</h4>				<iframe
-  src="https://luma.com/embed/calendar/cal-qmBCPYlhYzHECCs/events"
-  width="600"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allowfullscreen=""
-  aria-hidden="false"
-  tabindex="0"></iframe>
+				<h4 style="text-transform: uppercase; color:turquoise; font-family: monospace;"> <i class="icon fa-plug" style="color: #ffffff"></i>&nbsp;MY MEETUP GROUPS</h4>
+				<a href="https://www.meetup.com/devops-in-israel/" target="_blank">&nbsp;DevOps IL &nbsp;</a> <i class="icon fa-cog" style="color: #faa344"></i> <a href="https://www.meetup.com/cloud-native-oss" target="_blank">&nbsp;Cloud Native & OSS IL&nbsp;</a> <i class="icon fa-cog" style="color: #d95374;"></i> &nbsp;<a href="https://www.meetup.com/statscraft/" target="_blank">Statscraft&nbsp;</a> <i class="icon fa-cog" style="color: #c0d44f;"></i> <a href="https://www.meetup.com/Cloud-Online-Meetup" target="_blank">&nbsp;Cloud Online Meetup&nbsp;</a> <i class="icon fa-cog" style="color: #a472d4;"></i><a href="https://www.meetup.com/DevRel/" target="_blank">&nbsp;DevRel IL&nbsp;</a>
+
+
+
+
    </div>
 
+
+
 <div class="box">
-
-<span style="text-transform: uppercase; color:turquoise; font-family: monospace; font-size: 1.5em;"><i class="fa fa-cog"></i>  RTFM Please Customers - Publications & Podcasts </span>
-
-{ %include client pr %}
-</div>
-
-<!-- <div class="box">
 			<details><summary><span style="text-transform: uppercase; color:turquoise; font-family: monospace; font-size: 1.5em;"><i class="fa fa-cog"></i>  RTFM Please - Service Offering</span></summary>
 <br/>
 
@@ -156,13 +147,13 @@ nav-menu: true
 				<td colspan="2"></td>
 				<td>100.00</td>
 			</tr>
-		</tfoot> 
-	</table> 
+		</tfoot> -->
+	</table>
 	</details>
 
 	</div>
 
-	</div> -->
+	</div>
 </section>
 
 <!-- Two -->
